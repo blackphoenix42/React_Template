@@ -22,13 +22,13 @@
 
 - Clone this repository remotely.
 
-```
+```sh
 git clone https://github.com/blackphoenix42/template_repo.git
 ```
 
 - Install the dependencies
 
-```
+```sh
 npm install
 ```
 
