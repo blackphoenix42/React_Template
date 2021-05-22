@@ -30,6 +30,7 @@ git clone https://github.com/blackphoenix42/template_repo.git`
 
 - Replace `template_repo` in `.github/config.yml` with your repository name.
 - Also, replace `template_repo` in `./README.md`
+- Edit `name`, `description` and `keywords` in `./package.json`
 - You are good to go! 🥳
 
 ## 🚀 How to Contribute to Project?
