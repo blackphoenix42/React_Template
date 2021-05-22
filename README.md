@@ -23,7 +23,7 @@
 - Clone this repository remotely.
 
 ```
-git clone https://github.com/blackphoenix42/template_repo.git`
+git clone https://github.com/blackphoenix42/template_repo.git
 ```
 
 # To Edit:
