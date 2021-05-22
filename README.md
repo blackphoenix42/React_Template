@@ -26,6 +26,12 @@
 git clone https://github.com/blackphoenix42/template_repo.git`
 ```
 
+- Install the dependencies
+
+```
+npm install
+```
+
 # To Edit:
 
 - Replace `template_repo` in `.github/config.yml` with your repository name.
