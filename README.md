@@ -36,7 +36,6 @@ git clone https://github.com/blackphoenix42/template_repo.git`
 
 - Take a look at the Existing [Issues](https://github.com/blackphoenix/template_repo/issues) or create your own Issues!
 - Check out [CONTRIBUTING.md](./CONTRIBUTING.md)
-- Start contributing to get featured in README.md
 
 ## 👾 Project Admin
 
