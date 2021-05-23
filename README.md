@@ -32,6 +32,16 @@ git clone https://github.com/blackphoenix42/template_repo.git
 npm install
 ```
 
+- Start the App
+
+```sh
+npm start
+```
+
+<div align="center">
+	<img src="./.github/assets/welcome.svg" width="30%">
+</div>
+
 # To Edit:
 
 - Replace `template_repo` in `.github/config.yml` with your repository name.
@@ -43,6 +53,10 @@ npm install
 
 - Take a look at the Existing [Issues](https://github.com/blackphoenix/template_repo/issues) or create your own Issues!
 - Check out [CONTRIBUTING.md](./CONTRIBUTING.md)
+
+<div align="center">
+	<img src="./.github/assets/ToDo.svg" width="50%">
+</div>
 
 ## 👾 Project Admin
 
